@@ -1,4 +1,4 @@
-# Public Transit Status with Apache Kafka
+# Public Transit Status with Apache Kafka ecosystem
 
 ## Here are the Project Instructions
 
